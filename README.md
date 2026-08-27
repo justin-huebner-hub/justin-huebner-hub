@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on some projects like web applications with spring boot or data pipelines with python. Im currently a working student at Allianz and study Business Information Systems at Hamburg University of Applied Sciences. Next I want to learn some Cloud like AWS or Azure and JavaScript to become a Software Engineer or Data Engineer. 
+I'm currently working on some projects like web applications with spring boot or data pipelines with python. Also i'm a working student at Allianz and study Business Information Systems at Hamburg University of Applied Sciences. Next I want to learn some Cloud like AWS or Azure and JavaScript to become a Software Engineer or Data Engineer. 
 
 
 ## 🌐 Socials:
